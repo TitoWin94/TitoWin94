@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Héctor Sánchez</h1>
+<h1 align="center">Hi 👋, I'm Héctor Sánchez <img width="80px" src="https://phantom-marca.unidadeditorial.es/2c969ac2cc48045a146974b959880017/resize/1200/f/jpg/assets/multimedia/imagenes/2023/03/01/16776867288099.jpg"></h1>
 <h3 align="center">A passionate frontend developer from Ecuador 🇪🇨</h3>
 
 <p> I like to develop web pages, learn new technologies and acquire new skills.
